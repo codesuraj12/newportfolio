@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="60" height="60">
+  <!-- Left Angle Bracket -->
+  <path d="M20 12 L8 32 L20 52" stroke="red" stroke-width="4" fill="none" />
+  
+  <!-- Right Angle Bracket -->
+  <path d="M44 12 L56 32 L44 52" stroke="red" stroke-width="4" fill="none" />
+  
+  <!-- Slash -->
+  <line x1="28" y1="12" x2="36" y2="52" stroke="black" stroke-width="4" />
+</svg>

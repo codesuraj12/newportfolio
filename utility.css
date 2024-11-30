@@ -1,0 +1,22 @@
+
+/* Media Queries */
+@media (max-width: 768px) {
+    
+   
+    
+    
+    .first {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .part2 img {
+      margin: 20px auto;
+    }
+  
+    .details {
+      flex-direction: column;
+      gap: 20px;
+    }
+  
+  }
